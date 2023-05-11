@@ -1,4 +1,4 @@
-# Whether the ability to predict search traffic can translate into the ability to successfully trade the stock?
+# Relationship between predict search traffic and stock trade
 
 <img src="./stock-exchange.jpg" alt="isolated" width="500"/>
 
